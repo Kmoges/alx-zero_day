@@ -1,1 +1,1 @@
-director read me
+Directory read me
